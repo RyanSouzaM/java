@@ -36,8 +36,8 @@ console.log(veiculos)
 console.log( typeof veiculos )
 
 let cliente  = {
-    nome: 'Davi',
-    idade: 18
+    nome: 'ryan',
+    idade: 20
 }
 console.log(cliente)
 console.log( typeof cliente)
